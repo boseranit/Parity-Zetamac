@@ -55,6 +55,7 @@ var Welcome = function (_React$Component) {
 			}
 			if (this.state.combo) {
 				questions.push(2);
+				questions.push(11);
 			}
 			if (this.state.straddle) {
 				questions.push(3);

@@ -27,7 +27,7 @@ var Welcome = function (_React$Component) {
 			straddle: true,
 			combo: true,
 			bwps: true,
-			duration: 120,
+			duration: 300,
 			startGame: false,
 			questions: []
 		};
